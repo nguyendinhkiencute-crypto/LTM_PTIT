@@ -2,6 +2,7 @@ package RMI_main;
 import java.rmi.registry.*;
 
 import RMI.DataService;
+import RMI.Object;
 
 import java.rmi.*;
 import java.util.*;
